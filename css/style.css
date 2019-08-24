@@ -245,12 +245,15 @@ figure {
     margin-bottom: 0; }
     #colorlib-hero .flexslider .slides {
       position: relative;
-      overflow: visible; }
+      overflow: visible; 
+    }
       #colorlib-hero .flexslider .slides li {
         background-repeat: no-repeat;
-        background-size: cover;
-        background-position: bottom center;
+        background-size: contain;
+        background-position: top right;
+        max-width: 100%;
         min-height: 400px;
+        /* height: 200px; */
         position: relative; }
     #colorlib-hero .flexslider .flex-control-nav {
       bottom: 20px;
