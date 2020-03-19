@@ -1439,3 +1439,7 @@ body.offcanvas {
       font-size: 50%;
       color: rgba(0, 0, 0, 0.5);
   }
+
+  .colorlib-footer .social-links {
+      font-size: 20px;
+  }
