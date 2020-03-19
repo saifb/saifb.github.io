@@ -349,7 +349,8 @@ figure {
               width: 100%; } }
 
 body.offcanvas {
-  overflow-x: hidden; }
+  overflow-x: hidden;
+  overflow-y: hidden; }
   body.offcanvas #colorlib-aside {
     -moz-transform: translateX(0);
     -webkit-transform: translateX(0);
