@@ -195,7 +195,7 @@ figure {
     width: 100%; }
     @media screen and (max-width: 768px) {
       #colorlib-aside .colorlib-footer {
-        position: relative;
+        position: absolute;
         bottom: 0; } }
     #colorlib-aside .colorlib-footer span {
       display: block;
@@ -358,7 +358,8 @@ body.offcanvas {
     width: 300px;
     background: #f2f3f7;
     z-index: 999;
-    position: fixed; }
+    position: fixed;
+    height: -webkit-fill-available; }
   body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
     top: 0;
     -moz-transform: translateX(300px);
