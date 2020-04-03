@@ -9,6 +9,6 @@ As of now, it includes the following sections:
 - Recent Work
 - Contact Me
 
-Please let me know if you think I should include anything else or if you have feedback for the site. Cheers!
+Feel free to reach out if you have feedback, or would like to get in touch. Cheers!
 
 contact@saifbillah.com
